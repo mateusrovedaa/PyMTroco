@@ -1,5 +1,5 @@
 # PyMTroco
-Máquina de troco feita em python para estudos
+Máquina de troco feita em python para estudos.
 Caso queira ver ela funcionando, basta acessar esse link [https://trinket.io/python/97ddd77708](https://trinket.io/python/97ddd77708)
 
 ## Funcionamento
